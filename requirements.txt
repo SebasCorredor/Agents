@@ -1,0 +1,6 @@
+langgraph
+langchain_google_vertexai
+langgraph-cli
+python-dotenv
+google-cloud-aiplatform
+langchain_anthropic
